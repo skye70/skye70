@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @skye70
-- 👀 I’m interested in web development, cyber security and videography.
-- 🌱 I’m currently learning JavaScript, Python and Design Principles.
+- 👀 Web Dev, Web & Mobile UI Design,Creatives (Graphic Design, Video Editing) 
+- 🌱 I’m currently learning JavaScript, Python and Design Principles: React JS, SQL.
 - 💞️ I’m looking to collaborate on web development and web security.
 - 📫 How to reach me : skye7officiel@gmail.com
 
